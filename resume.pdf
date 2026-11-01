@@ -1,0 +1,88 @@
+%PDF-1.4
+%PDF resume
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5292 >>
+stream
+0.03 0.09 0.16 rg 0 682 595 160 re f
+0.38 0.88 0.94 rg 44 815 42 3 re f
+BT /F2 23 Tf 1 1 1 rg 1 0 0 1 44.00 783.00 Tm (VENKAT RAMANA BUDISETTI) Tj ET
+BT /F2 10 Tf 0.56 0.91 0.95 rg 1 0 0 1 44.00 760.00 Tm (DEVOPS  |  DEVSECOPS  |  MLOPS ENGINEER) Tj ET
+BT /F1 8.7 Tf 0.91 0.95 0.98 rg 1 0 0 1 44.00 735.00 Tm (Hyderabad, India  |  +91 82476 29100  |  venkatadevops789@gmail.com) Tj ET
+BT /F1 8.7 Tf 0.91 0.95 0.98 rg 1 0 0 1 44.00 718.00 Tm (linkedin.com/in/venkataramana-budisetti-607871213) Tj ET
+BT /F2 9 Tf 0.02 0.52 0.62 rg 1 0 0 1 44.00 662.00 Tm (PROFESSIONAL SUMMARY) Tj ET
+0.77 0.83 0.89 RG 0.6 w 44 657 m 551 657 l S
+BT /F1 8.8 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 642.00 Tm (DevOps, DevSecOps and MLOps Engineer with 7+ years of experience building reliable, automated platforms.) Tj ET
+BT /F1 8.8 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 630.00 Tm (Specializes in cloud infrastructure, Kubernetes, CI/CD, security, MLOps and intelligent operations.) Tj ET
+BT /F2 9 Tf 0.02 0.52 0.62 rg 1 0 0 1 44.00 616.00 Tm (CORE SKILLS) Tj ET
+0.77 0.83 0.89 RG 0.6 w 44 611 m 551 611 l S
+BT /F1 8.4 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 596.00 Tm (Cloud & platforms: AWS, Azure, EKS, AKS, Kubernetes, Helm, Istio) Tj ET
+BT /F1 8.4 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 583.00 Tm (Infrastructure & delivery: Terraform, Ansible, Jenkins, ArgoCD, GitHub Actions, Git, Docker) Tj ET
+BT /F1 8.4 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 570.00 Tm (MLOps & observability: SageMaker, MLflow, Kubeflow, Grafana, Prometheus, ELK, OpenTelemetry) Tj ET
+BT /F1 8.4 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 557.00 Tm (Automation & systems: Python, Linux, CI/CD, DevSecOps, AIOps) Tj ET
+BT /F2 9 Tf 0.02 0.52 0.62 rg 1 0 0 1 44.00 541.00 Tm (PROFESSIONAL EXPERIENCE) Tj ET
+0.77 0.83 0.89 RG 0.6 w 44 536 m 551 536 l S
+BT /F2 9.2 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 521.00 Tm (Site Reliability Engineer) Tj ET
+BT /F2 7.5 Tf 0.02 0.52 0.62 rg 1 0 0 1 473.60 521.00 Tm (NOV 2023 - PRESENT) Tj ET
+BT /F1 8 Tf 0.32 0.40 0.49 rg 1 0 0 1 44.00 509.00 Tm (Hitachi Digital Services  |  Full-time) Tj ET
+BT /F1 8.2 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 497.00 Tm (Reliability engineering, DevOps and related platform work.) Tj ET
+BT /F2 9.2 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 483.00 Tm (Platform Engineer) Tj ET
+BT /F2 7.5 Tf 0.02 0.52 0.62 rg 1 0 0 1 469.30 483.00 Tm (JAN 2023 - APR 2024) Tj ET
+BT /F1 8 Tf 0.32 0.40 0.49 rg 1 0 0 1 44.00 471.00 Tm (Hitachi Digital Services  |  Full-time) Tj ET
+BT /F1 8.2 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 459.00 Tm (Terraform, infrastructure and platform engineering.) Tj ET
+BT /F2 9.2 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 445.00 Tm (Infra Developer \(DevOps Engineer\)) Tj ET
+BT /F2 7.5 Tf 0.02 0.52 0.62 rg 1 0 0 1 469.30 445.00 Tm (JUN 2021 - JAN 2023) Tj ET
+BT /F1 8 Tf 0.32 0.40 0.49 rg 1 0 0 1 44.00 433.00 Tm (Cognizant  |  Full-time) Tj ET
+BT /F1 8.2 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 421.00 Tm (Engineering, Terraform and infrastructure development.) Tj ET
+BT /F2 9.2 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 407.00 Tm (DevOps Engineer) Tj ET
+BT /F2 7.5 Tf 0.02 0.52 0.62 rg 1 0 0 1 469.30 407.00 Tm (SEP 2019 - MAY 2021) Tj ET
+BT /F1 8 Tf 0.32 0.40 0.49 rg 1 0 0 1 44.00 395.00 Tm (Magellanic-Cloud  |  Full-time) Tj ET
+BT /F1 8.2 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 383.00 Tm (DevOps engineering supporting cloud and delivery operations.) Tj ET
+BT /F2 9.2 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 369.00 Tm (Assistant Professor) Tj ET
+BT /F2 7.5 Tf 0.02 0.52 0.62 rg 1 0 0 1 469.30 369.00 Tm (JUN 2016 - APR 2019) Tj ET
+BT /F1 8 Tf 0.32 0.40 0.49 rg 1 0 0 1 44.00 357.00 Tm (Sanketika Vidya Parishad Engineering College  |  Full-time) Tj ET
+BT /F1 8.2 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 345.00 Tm (Electrical and Electronics Engineering \(EEE\).) Tj ET
+BT /F2 9 Tf 0.02 0.52 0.62 rg 1 0 0 1 44.00 330.00 Tm (SELECTED PROJECTS) Tj ET
+0.77 0.83 0.89 RG 0.6 w 44 325 m 551 325 l S
+BT /F1 8 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 310.00 Tm (End-to-End MLOps Platform - SageMaker and Kubeflow model training, versioning, A/B testing and delivery.) Tj ET
+BT /F1 8 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 299.50 Tm (Multi-cloud IaC - Terraform foundation across three regions with drift detection, compliance and cost) Tj ET
+BT /F1 8 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 289.00 Tm (reporting.) Tj ET
+BT /F1 8 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 278.50 Tm (AIOps observability - Anomaly detection for 200+ services with predictive alerting.) Tj ET
+BT /F1 8 Tf 0.18 0.25 0.33 rg 1 0 0 1 44.00 268.00 Tm (GitOps Kubernetes platform - Delivery workflows across development, staging and production with rollback.) Tj ET
+BT /F2 9 Tf 0.02 0.52 0.62 rg 1 0 0 1 44.00 256.50 Tm (EDUCATION) Tj ET
+0.77 0.83 0.89 RG 0.6 w 44 251.5 m 551 251.5 l S
+BT /F2 8.2 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 236.50 Tm (Master's degree, Electrical and Electronics Engineering  |  Andhra University) Tj ET
+BT /F2 7.5 Tf 0.02 0.52 0.62 rg 1 0 0 1 446.00 236.50 Tm (APR 2017 - APR 2019) Tj ET
+BT /F2 8.2 Tf 0.08 0.14 0.22 rg 1 0 0 1 44.00 223.50 Tm (Bachelor of Engineering, Electrical and Electronics Engineering  |  Andhra University) Tj ET
+BT /F2 7.5 Tf 0.02 0.52 0.62 rg 1 0 0 1 446.00 223.50 Tm (JUN 2012 - APR 2015) Tj ET
+BT /F1 7.5 Tf 0.42 0.49 0.56 rg 1 0 0 1 44.00 31.00 Tm (Portfolio: DevOps, DevSecOps and MLOps engineering | Hyderabad, India) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000021 00000 n 
+0000000070 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000005606 00000 n 
+0000005703 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5805
+%%EOF
